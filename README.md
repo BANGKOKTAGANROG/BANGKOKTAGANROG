@@ -7,10 +7,10 @@ Technically I'm a Russian student of grade 10 public school, who is interested i
 
 # Desired tech stack
 ### again, I see myself as a front-end dev, so here:
-- [] HTML
-- [] CSS
-- [] plain JavaScript/TypeScript
-- [] at least 2 frameworks/libraries (React, Angular and so on)
+- [ ] HTML
+- [ ] CSS
+- [ ] plain JavaScript/TypeScript
+- [ ] at least 2 frameworks/libraries (React, Angular and so on)
 
 ## A bit about future
 So uh I'm not really sure what to say here, just hope that I will learn stuff eventually and maybe even get my own portfolio. And _if_ shit goes ultra smooth, I may even end up working for some big ass company as a front-end dev!
