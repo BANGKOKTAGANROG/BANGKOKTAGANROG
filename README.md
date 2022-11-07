@@ -26,5 +26,4 @@ here are some of my links, enjoy<sup>?</sup>
 - i can hold on let me think about it for a second... oh yeah i can be good at math (also sometimes).
 
 ## why did i even choose coding?
-well idk i just got into it, i always wanted to work in IT, but like ehhh (surely not because I wanted money)
-![Clueless emoji](https://cdn.frankerfacez.com/emoticon/670425/4)
+well idk i just got into it, i always wanted to work in IT, but like ehhh (surely not because I wanted money) <img src="https://cdn.frankerfacez.com/emoticon/670425/4" width="24">
