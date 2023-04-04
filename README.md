@@ -1,16 +1,11 @@
 ## who
 - Male (he, him)
 - Russia
-- 16 yrs. old
+- 17 yrs. old
 - Grade 10 of public school
 
-## tech stack
-well it depends actually. sometimes I see myself as a **full-stack Python developer**, sometimes as a **front-end dev** and sometimes as a **Unity/C++ game designer/developer**.
-which one will i choose? nobody knows, but priority list is as follows:
-1. Front-end dev (React//Vue.js main)
-1. Back-end developer (Node.js **OR** Django (or both?))
-1. Full-stack Python dev
-1. Unity/C++ game dev
+## stack
+none thanks but i havent even chosen the first language yet im talking about some bozo ass stack <img src="https://cdn.frankerfacez.com/emoticon/569240/4" width="24" style="display: block;">
 
 ## my shit
 here are some of my links, enjoy<sup>?</sup>
@@ -26,4 +21,4 @@ here are some of my links, enjoy<sup>?</sup>
 - i can hold on let me think about it for a second... oh yeah i can be good at math (also sometimes).
 
 ## why did i even choose coding?
-well idk i just got into it, i always wanted to work in IT, but like ehhh (surely not because I wanted money) <img src="https://cdn.frankerfacez.com/emoticon/670425/4" width="24">
+well idk i just got into it, i always wanted to work in IT, but like ehhh (surely not because I wanted money) <img src="https://cdn.frankerfacez.com/emoticon/670425/4" width="24" style="display: block;">
