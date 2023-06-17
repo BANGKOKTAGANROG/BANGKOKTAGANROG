@@ -2,7 +2,7 @@
 - Male (he, him)
 - Russia
 - 17 yrs. old
-- Grade 10 of public school
+- Grade 11 of public school
 
 ## stack
 none thanks but i havent even chosen the first language yet im talking about some bozo ass stack <img src="https://cdn.frankerfacez.com/emoticon/569240/4" width="24" style="display: block;">
